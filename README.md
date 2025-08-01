@@ -44,16 +44,16 @@ Every 4 days, a massive **zombie horde** attacks the player’s base, forcing pl
 
 ### 🔰 Stage 1: Core Gameplay Loop
 - [x] Custom inventory system with drag/drop and hotbar  
-- [x] Day-night cycle with lighting and zombie threat scaling  
-- [x] Zombie AI with roaming and attacking behavior  
-- [x] Basic melee combat and damage system  
+- [ ] Day-night cycle with lighting and zombie threat scaling  
+- [ ] Zombie AI with roaming and attacking behavior  
+- [ ] Basic melee combat and damage system  
 - [x] Loot pickup and drop system  
 
 ### 🏕️ Stage 2: Base Building & Crafting
-- [x] Crafting workbench and recipe logic  
-- [x] Base building with placeable walls and foundations  
+- [ ] Crafting workbench and recipe logic  
+- [ ] Base building with placeable walls and foundations  
 - [ ] Basic machines: furnace, sawbench  
-- [ ] Backpack and armor equipment slots  
+- [X] Backpack and armor equipment slots  
 
 ### 🧟 Stage 3: Horde & Combat Expansion
 - [ ] 4-day horde system with wave logic  
@@ -64,10 +64,10 @@ Every 4 days, a massive **zombie horde** attacks the player’s base, forcing pl
 ### 🌍 Stage 4: World Systems
 - [ ] Boat travel system between islands  
 - [ ] Procedural loot island generation  
-- [ ] Save/load player inventory and base  
+- [X] Save/load player inventory and base  
 - [ ] Sound effects and ambient music  
 
-### 🔮 Stage 5: Polish & Expansion (Optional)
+### 🔮 Stage 5: Polish & Expansion 
 - [ ] NPC faction encounters or traders  
 - [ ] Lore journal system  
 - [ ] Weather (fog, rain, storms)  
